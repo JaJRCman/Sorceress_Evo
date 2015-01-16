@@ -12,7 +12,7 @@ namespace"sorceress"{
 			self.TCS_FR = trit_Component.TCS_typeR:new(0.6)
 			self.TCS_RL = trit_Component.TCS_typeR:new(0.6)
 			self.TCS_RR = trit_Component.TCS_typeR:new(0.6)
-			self.numOriginPower = 65000;
+			self.numOriginPower = 95000;
 
 -- 			torqueSplitRatio = (x, y) -1<=x<=1,-1<=y<=1
 --			+:front
